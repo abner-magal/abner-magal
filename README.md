@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou Abner Magalhães
 
-🚀 **Full Stack Developer** em formação | 🎯 Focado em desenvolvimento web moderno
+🚀 **Frontend Developer** em formação | 🎯 Focado em desenvolvimento web
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
