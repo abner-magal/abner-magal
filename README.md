@@ -34,7 +34,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= 🎯 Objetivo Atual
 
-Construindo portfólio sólido em **desenvolvimento web full stack** com foco em:
+Construindo portfólio sólido em **desenvolvimento frontend** com foco em:
 - ⚛️ React & Next.js para aplicações modernas
 - 🎨 UI/UX com Tailwind CSS
 - 🧹 Clean code & best practices
